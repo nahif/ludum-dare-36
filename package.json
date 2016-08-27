@@ -1,0 +1,22 @@
+{
+  "name": "ludum-dare-36",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Nahi Ferreira <nahiferreiraq@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-contrib-connect": "~1.0.2",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt-browserify": "~5.0.0",
+    "grunt-open": "~0.2.3",
+    "grunt-contrib-imagemin": "~1.0.0",
+    "grunt-contrib-uglify": "~1.0.1"
+  }
+}
